@@ -1,0 +1,15 @@
+matplotlib
+streamlit
+pandas
+requests
+plotly
+numpy
+yfinance
+beautifulsoup4
+newspaper3k
+nltk
+pillow
+prophet
+streamlit-option-menu
+keras
+scikit-learn
